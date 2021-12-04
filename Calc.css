@@ -1,0 +1,39 @@
+.cal{
+  
+  color: red;
+ // background-color: red;
+  text-align: center;
+  font-size:30px;
+
+
+}
+.s{
+ 
+ height: 150px;
+ width: 310px;
+ font-size: 80px;
+ color: rgb(200,20,10);
+ background-color : rgb(240,220,8); 
+ }
+ .d{
+ height: 120px;
+ width: 100%;
+ font-size: 60px;
+ color: rgb(25,20,100);
+   background-color : rgb(240,220,8); 
+   
+ }
+ .head{
+   font-size: 120px;
+   color: rgb(180,20,200) ;
+   text-align: center;
+ //  background-color : rgb(0,30,0); 
+ }
+ .sr{
+   height: 250px;
+ width: 950px;
+ font-size: 100px;
+ color: rgb(200,20,10);
+   
+   background-color : rgb(200,200,100); 
+ }
